@@ -1,0 +1,1172 @@
+
+ACTION TRIGGERED (true ) actionEditVoice1
+ 4 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:10, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:10, Voice:0, Beat:-1, Note:-1 ]}{Pitch:86}{Rhythm:doubleCroche}
+
+ 7 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:10, Voice:0, Beat:10, Note:79 Track:0, Staff:0, Bar:10, Voice:0, Beat:10, Note:79 ]}{Pitch:79}{Rhythm:doubleCroche}
+ 8 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:10, Voice:0, Beat:10, Note:79 Track:0, Staff:0, Bar:10, Voice:0, Beat:10, Note:79 ]}{Increment:false}
+ 9 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:10, Voice:0, Beat:10, Note:79 Track:0, Staff:0, Bar:10, Voice:0, Beat:10, Note:79 ]}{Increment:false}
+ 10 RemovePitchedNote {ModelIndex:Track:0, Staff:0, Bar:10, Voice:0, Beat:10, Note:-1}{Pitch:86}
+ 11 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:10, Voice:0, Beat:10, Note:-1 Track:0, Staff:0, Bar:10, Voice:0, Beat:10, Note:-1 ]}{Pitch:70}{Rhythm:Noire}
+ 12 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:10, Voice:0, Beat:10, Note:-1 Track:0, Staff:0, Bar:10, Voice:0, Beat:10, Note:-1 ]}{Pitch:74}{Rhythm:Noire}
+ 13 RemovePitchedNote {ModelIndex:Track:0, Staff:0, Bar:10, Voice:0, Beat:10, Note:74}{Pitch:74}
+
+
+ACTION TRIGGERED (true ) actionMultiVoiceEdition
+
+
+ 14 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:10, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:10, Voice:0, Beat:-1, Note:-1 MultiVoice MultiTrack ]}{Pitch:74}{Rhythm:Noire}
+ 15 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:10, Voice:0, Beat:11, Note:74 Track:0, Staff:0, Bar:10, Voice:0, Beat:11, Note:74 MultiVoice MultiTrack ]}{Pitch:67}{Rhythm:Noire}
+ 16 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:12, Note:55 Track:0, Staff:1, Bar:10, Voice:1, Beat:12, Note:55 MultiVoice MultiTrack ]}{Increment:true}
+ 17 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 MultiVoice MultiTrack ]}{Pitch:50}{Rhythm:Noire}
+
+ 20 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 MultiVoice MultiTrack ]}{Pitch:44}{Rhythm:Noire}
+ACTION TRIGGERED (false) actionEditVoice1
+ 21 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:10, Voice:0, Beat:-1, Note:-1 ]}{Pitch:50}{Rhythm:Blanche}
+
+ACTION TRIGGERED (true ) actionMultiVoiceEdition
+ 24 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:50}{Pitch:50}
+ACTION TRIGGERED (true ) actionEditVoice1
+
+ 27 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:10, Voice:0, Beat:1, Note:-1 Track:0, Staff:1, Bar:10, Voice:0, Beat:1, Note:-1 ]}{Increment:true}
+ 28 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:10, Voice:0, Beat:-1, Note:-1 ]}{Pitch:55}{Rhythm:Noire}
+
+
+ 29 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:0, Beat:2, Note:-1 Track:0, Staff:1, Bar:10, Voice:0, Beat:2, Note:-1 ]}{Pitch:43}{Rhythm:Noire}
+ 30 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:10, Voice:0, Beat:2, Note:43}{Pitch:55}
+
+---------
+
+ 35 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:0, Note:89 Track:0, Staff:0, Bar:11, Voice:0, Beat:0, Note:89 ]}{Pitch:87}{Rhythm:Noire}
+ 36 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:0, Note:87 Track:0, Staff:0, Bar:11, Voice:0, Beat:0, Note:87 ]}{Increment:true}
+ 37 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:0, Note:87 Track:0, Staff:0, Bar:11, Voice:0, Beat:0, Note:87 ]}{Increment:true}
+ 38 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:86}{Rhythm:doubleCroche}
+ 39 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:84}{Rhythm:doubleCroche}
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ 42 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 ]}{Increment:true}
+ 43 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 ]}{Increment:true}
+ 44 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 ]}{Pitch:46}{Rhythm:doubleCroche}
+ 45 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 ]}{Pitch:55}{Rhythm:doubleCroche}
+ 46 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 ]}{Pitch:50}{Rhythm:doubleCroche}
+ 47 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:-1, Note:-1 ]}{Pitch:56}{Rhythm:doubleCroche}
+
+ 48 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:12, Note:55 Track:0, Staff:1, Bar:10, Voice:1, Beat:12, Note:55 ]}{Increment:true}
+ 49 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:12, Note:55 Track:0, Staff:1, Bar:10, Voice:1, Beat:12, Note:55 ]}{Increment:true}
+
+ 52 RemoveBeats {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 ]}
+
+
+ 53 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:12, Note:55 Track:0, Staff:1, Bar:10, Voice:1, Beat:12, Note:55 ]}{Increment:false}
+
+
+ 54 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:46}{Pitch:46}
+ 55 RemoveBeats {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:46 Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:46 ]}
+
+
+ 56 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1}{Pitch:55}
+ 57 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 ]}{Pitch:62}{Rhythm:Croche}
+ 58 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:14, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:14, Note:-1 ]}{Pitch:58}{Rhythm:doubleCroche}
+ 59 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:10, Voice:1, Beat:14, Note:58}{Pitch:50}
+ 60 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 ]}{Pitch:67}{Rhythm:doubleCroche}
+ 61 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 ]}{Pitch:62}{Rhythm:doubleCroche}
+ 62 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 ]}{Pitch:70}{Rhythm:doubleCroche}
+ 63 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 ]}{Pitch:67}{Rhythm:doubleCroche}
+ 64 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:0, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:0, Note:-1 ]}{Pitch:74}{Rhythm:doubleCroche}
+
+
+ 65 RemoveBeats {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:17, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:18, Note:67 MultiSelection MultiTrack ]}
+ 66 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:1, Beat:0, Note:74}{Pitch:74}
+
+
+ 67 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 ]}{Pitch:58}{Rhythm:Croche}
+ 68 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:58}{Pitch:62}
+ 0 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:14, Note:58 Track:0, Staff:1, Bar:10, Voice:1, Beat:14, Note:58 ]}{Pitch:50}{Rhythm:doubleCroche}
+ 1 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:10, Voice:1, Beat:14, Note:50}{Pitch:58}
+ 2 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:15, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:15, Note:-1 ]}{Pitch:62}{Rhythm:doubleCroche}
+ 3 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:10, Voice:1, Beat:15, Note:62}{Pitch:67}
+ 4 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:16, Note:62 Track:0, Staff:1, Bar:10, Voice:1, Beat:16, Note:62 ]}{Pitch:58}{Rhythm:doubleCroche}
+ 5 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:10, Voice:1, Beat:16, Note:58}{Pitch:62}
+ 6 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 ]}{Pitch:67}{Rhythm:doubleCroche}
+ 7 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:-1, Note:-1 ]}{Pitch:62}{Rhythm:doubleCroche}
+ 8 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:0, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:0, Note:-1 ]}{Pitch:68}{Rhythm:doubleCroche}
+
+
+ 10 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:12, Note:55 Track:0, Staff:1, Bar:10, Voice:1, Beat:12, Note:55 MultiVoice MultiTrack ]}{Increment:true}
+ 11 CreateBeat {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 MultiVoice MultiTrack ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 12 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 Track:0, Staff:1, Bar:10, Voice:1, Beat:13, Note:-1 MultiVoice MultiTrack ]}{Pitch:50}{Rhythm:doubleCroche}
+ 13 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:10, Voice:1, Beat:15, Note:50}{Pitch:50}
+ 14 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:10, Voice:1, Beat:15, Note:50 Track:0, Staff:1, Bar:10, Voice:1, Beat:15, Note:50 MultiVoice MultiTrack ]}{Pitch:55}{Rhythm:doubleCroche}
+
+
+ 15 CreateBeat {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:0, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:0, Note:-1 MultiVoice MultiTrack ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 16 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:0, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:0, Note:-1 MultiVoice MultiTrack ]}{Pitch:68}{Rhythm:doubleCroche}
+
+
+ 17 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:1, Note:-1 MultiVoice MultiTrack ]}{Increment:true}
+ 18 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:2, Note:86 Track:0, Staff:0, Bar:11, Voice:0, Beat:2, Note:86 MultiVoice MultiTrack ]}{Increment:true}
+
+
+ 19 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:1, Beat:0, Note:68}{Pitch:68}
+
+
+ 20 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:0, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:0, Note:-1 MultiVoice MultiTrack ]}{Pitch:56}{Rhythm:tripleCroche}
+ 21 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:0, Beat:0, Note:56}{Pitch:56}
+ACTION TRIGGERED (false) actionEditVoice2
+ 22 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:1, Beat:0, Note:56}{Pitch:56}
+ACTION TRIGGERED (true ) actionEditVoice1
+ 23 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:51}{Rhythm:Noire}
+ 24 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:0, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:0, Note:-1 ]}{Increment:true}
+ 25 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:51 Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:51 ]}{Increment:true}
+ 26 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:56}{Rhythm:Croche}
+ 27 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:60}{Rhythm:Croche}
+
+
+ 28 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:0, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:3, Note:-1 MultiSelection MultiTrack ]}{Increment:true}
+
+
+ 29 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:61}{Rhythm:doubleCroche}
+ 30 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:0, Beat:4, Note:61}{Pitch:61}
+ 31 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:4, Note:61 Track:0, Staff:1, Bar:11, Voice:0, Beat:4, Note:61 ]}{Pitch:62}{Rhythm:doubleCroche}
+ 32 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:63}{Rhythm:doubleCroche}
+
+
+ 33 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:65}{Rhythm:doubleCroche}
+ 38 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:7, Note:48 Track:0, Staff:1, Bar:11, Voice:0, Beat:7, Note:48 ]}{Pitch:44}{Rhythm:doubleCroche}
+ 39 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:7, Note:44 Track:0, Staff:1, Bar:11, Voice:0, Beat:7, Note:44 ]}{Pitch:51}{Rhythm:doubleCroche}
+
+
+ 40 RemoveBeats {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:0, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:7, Note:51 MultiSelection MultiTrack ]}
+ACTION TRIGGERED (false) actionEditCut
+ACTION TRIGGERED (true ) actionEditVoice2
+ 41 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:0, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:0, Note:-1 ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+ACTION TRIGGERED (true ) actionEditVoice1
+ 42 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:44}{Rhythm:doubleCroche}
+ 43 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:0, Note:44 Track:0, Staff:1, Bar:11, Voice:0, Beat:0, Note:44 ]}{Increment:false}
+ 44 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:0, Note:44 Track:0, Staff:1, Bar:11, Voice:0, Beat:0, Note:44 ]}{Increment:false}
+
+
+ 45 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:0, Note:44 Track:0, Staff:1, Bar:11, Voice:0, Beat:0, Note:44 ]}{Increment:false}
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ 46 CreateBeat {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:7, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:7, Note:-1 ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 47 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:7, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:7, Note:-1 ]}{Pitch:63}{Rhythm:doubleCroche}
+
+
+ 48 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:7, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:7, Note:-1 ]}{Increment:true}
+ 49 CreateBeat {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:-1 ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 50 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:-1 ]}{Increment:true}
+ 51 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:-1 ]}{Pitch:77}{Rhythm:tripleCroche}
+ 52 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:77}{Pitch:77}
+ 53 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:77 Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:77 ]}{Pitch:65}{Rhythm:tripleCroche}
+
+
+ 54 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:9, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:9, Note:-1 ]}{Pitch:63}{Rhythm:tripleCroche}
+ 57 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:10, Note:60 Track:0, Staff:1, Bar:11, Voice:1, Beat:10, Note:60 ]}{Pitch:62}{Rhythm:doubleCroche}
+ 58 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:-1, Note:-1 ]}{Pitch:60}{Rhythm:doubleCroche}
+ 59 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:-1, Note:-1 ]}{Pitch:56}{Rhythm:doubleCroche}
+ 60 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:-1, Note:-1 ]}{Pitch:55}{Rhythm:doubleCroche}
+ 63 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:14, Note:51 Track:0, Staff:1, Bar:11, Voice:1, Beat:14, Note:51 ]}{Pitch:53}{Rhythm:doubleCroche}
+ 64 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:-1, Note:-1 ]}{Pitch:51}{Rhythm:doubleCroche}
+ 65 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:-1, Note:-1 ]}{Pitch:50}{Rhythm:doubleCroche}
+ 66 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:48}{Rhythm:doubleCroche}
+
+
+ 67 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:1, Beat:9, Note:-1}{Pitch:44}
+ 68 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:1, Beat:9, Note:-1}{Pitch:51}
+
+
+ 0 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:6, Note:65 Track:0, Staff:1, Bar:11, Voice:1, Beat:6, Note:65 ]}{Increment:true}
+ 1 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:9, Note:63 Track:0, Staff:1, Bar:11, Voice:1, Beat:9, Note:63 ]}{Increment:true}
+ 2 CreateBeat {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:10, Note:62 Track:0, Staff:1, Bar:11, Voice:1, Beat:10, Note:62 ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+
+ 4 RemoveBeats {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:6, Note:65 Track:0, Staff:1, Bar:11, Voice:1, Beat:6, Note:65 ]}
+ 5 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:1, Beat:6, Note:63}{Pitch:63}
+ 8 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:6, Note:61 Track:0, Staff:1, Bar:11, Voice:1, Beat:6, Note:63 ]}{Pitch:62}{Rhythm:tripleCroche}
+ 9 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:7, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:7, Note:-1 ]}{Pitch:63}{Rhythm:tripleCroche}
+ 10 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:1, Beat:7, Note:63}{Pitch:65}
+ 11 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:63 Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:63 ]}{Pitch:62}{Rhythm:tripleCroche}
+ 12 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:62}{Pitch:63}
+
+
+ 13 CreateBeat {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:9, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:9, Note:-1 ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 14 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:9, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:9, Note:-1 ]}{Increment:true}
+ 15 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:9, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:9, Note:-1 ]}{Pitch:56}{Rhythm:tripleCroche}
+
+
+ACTION TRIGGERED (true ) actionEditVoice1
+ 16 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:44}{Rhythm:Blanche}
+ 17 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:44}{Pitch:44}
+ 18 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:44 Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:44 ]}{Pitch:48}{Rhythm:Blanche}
+ 19 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:48 Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:48 ]}{Pitch:56}{Rhythm:Blanche}
+ 20 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:56 Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:56 ]}{Increment:true}
+
+
+
+
+ACTION TRIGGERED (false) actionEditVoice1
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+
+
+
+
+ 21 RemoveBeats {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:10, Note:-1 MultiSelection MultiTrack ]}
+ 22 CreateBeat {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1 ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 23 CreateBeat {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1 ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 24 CreateBeat {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1 ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 25 CreateBeat {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1 ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+
+
+
+
+
+
+ 26 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1 ]}{Pitch:51}{Rhythm:doubleCroche}
+ 27 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:5, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:5, Note:-1 ]}{Pitch:60}{Rhythm:doubleCroche}
+ 28 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:6, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:6, Note:-1 ]}{Pitch:62}{Rhythm:doubleCroche}
+ 31 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:7, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:7, Note:-1 ]}{Pitch:63}{Rhythm:doubleCroche}
+
+
+ 32 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1}{Pitch:51}
+ 33 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:4, Note:-1 ]}{Pitch:56}{Rhythm:doubleCroche}
+
+
+ 34 SetNoteRest {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:0, Note:-1 Track:0, Staff:1, Bar:11, Voice:1, Beat:0, Note:-1 ]}
+ACTION TRIGGERED (true ) actionNoteRest
+
+
+ACTION TRIGGERED (true ) actionEditVoice1
+ 35 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:-1}{Pitch:48}
+ 36 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:-1 ]}{Pitch:51}{Rhythm:doubleCroche}
+
+
+ 37 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:-1 ]}{Increment:true}
+
+
+ 42 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:50 Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:50 ]}{Pitch:51}{Rhythm:Croche}
+ 43 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:51 Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:51 ]}{Pitch:44}{Rhythm:Croche}
+
+
+ 44 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:-1 ]}{Pitch:55}{Rhythm:Croche}
+ 45 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:55 Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:55 ]}{Pitch:50}{Rhythm:Croche}
+ 46 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:50}{Pitch:51}
+ 47 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:50}{Pitch:44}
+
+
+ 48 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:55}{Pitch:55}
+ 49 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:55}{Pitch:50}
+ 50 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:55 Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:55 ]}{Pitch:53}{Rhythm:Croche}
+ 51 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:53 Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:53 ]}{Pitch:48}{Rhythm:Croche}
+
+
+
+
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+
+
+
+
+ 52 CreateBeat {Range:[ Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:62 Track:0, Staff:1, Bar:11, Voice:1, Beat:8, Note:62 ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+
+
+ACTION TRIGGERED (true ) actionEditVoice1
+
+
+
+
+
+
+ 54 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:3, Note:48 Track:0, Staff:1, Bar:11, Voice:0, Beat:3, Note:48 ]}{Pitch:51}{Rhythm:Croche}
+ 62 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:3, Note:47 Track:0, Staff:1, Bar:11, Voice:0, Beat:3, Note:47 ]}{Pitch:46}{Rhythm:Croche}
+
+
+ 63 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:48}{Rhythm:Croche}
+ 64 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:4, Note:48 Track:0, Staff:1, Bar:11, Voice:0, Beat:4, Note:48 ]}{Pitch:44}{Rhythm:Croche}
+
+
+ 65 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:43}{Rhythm:Croche}
+ 68 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:0, Note:36 Track:0, Staff:1, Bar:12, Voice:0, Beat:0, Note:36 ]}{Pitch:48}{Rhythm:Croche}
+
+
+ACTION TRIGGERED (true ) actionEditVoice1
+ 0 SetNoteAugmentationDot {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:-1 ]}{Checked:true}{Dots:1}
+ACTION TRIGGERED (true ) actionNoteDurationDotted
+ 1 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:53 Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:53 ]}{Increment:true}
+ 2 SetNoteAugmentationDot {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:3, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:3, Note:-1 ]}{Checked:true}{Dots:1}
+ACTION TRIGGERED (true ) actionNoteDurationDotted
+
+
+ 3 SetNoteAugmentationDot {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:3, Note:46 Track:0, Staff:1, Bar:11, Voice:0, Beat:3, Note:46 ]}{Checked:false}{Dots:1}
+ACTION TRIGGERED (false) actionNoteDurationDotted
+
+
+ 4 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:3, Note:51 Track:0, Staff:1, Bar:11, Voice:0, Beat:3, Note:51 ]}{Increment:true}
+
+
+
+
+ 5 SetNoteAugmentationDot {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:4, Note:-1 ]}{Checked:true}{Dots:1}
+ACTION TRIGGERED (true ) actionNoteDurationDotted
+
+
+ 6 SetNoteAugmentationDot {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:56 Track:0, Staff:1, Bar:11, Voice:0, Beat:1, Note:56 ]}{Checked:false}{Dots:1}
+ACTION TRIGGERED (false) actionNoteDurationDotted
+ 7 CreateBeat {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:2, Note:-1 ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 8 SetNoteAugmentationDot {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:5, Note:48 Track:0, Staff:1, Bar:11, Voice:0, Beat:5, Note:48 ]}{Checked:false}{Dots:1}
+ACTION TRIGGERED (false) actionNoteDurationDotted
+ 9 CreateBeat {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Rhythm:Croche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 10 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:6, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:6, Note:-1 ]}{Increment:true}
+
+
+
+
+
+
+
+
+ 11 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:0, Beat:4, Note:-1}{Pitch:51}
+
+ 18 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:11, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:11, Voice:0, Beat:4, Note:-1 ]}{Pitch:53}{Rhythm:doubleCroche}
+
+
+ACTION TRIGGERED (true ) actionEditVoice1
+ 19 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:12, Voice:0, Beat:0, Note:-1}{Pitch:48}
+ 20 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:0, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:0, Note:-1 ]}{Pitch:36}{Rhythm:doubleCroche}
+
+
+
+-----------
+
+
+
+
+ 21 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:84}{Rhythm:doubleCroche}
+ 22 SetNoteTied {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:4, Note:84 Track:0, Staff:0, Bar:11, Voice:0, Beat:4, Note:84 ]}{Tied:true}{Locator:84}
+ACTION TRIGGERED (true ) actionNoteTieNote
+ 23 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:83}{Rhythm:doubleCroche}
+ 24 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:84}{Rhythm:doubleCroche}
+ 25 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:87}{Rhythm:doubleCroche}
+ 26 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:86}{Rhythm:doubleCroche}
+ 27 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:80}{Rhythm:doubleCroche}
+ 28 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:79}{Rhythm:doubleCroche}
+ 29 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:77}{Rhythm:doubleCroche}
+ 30 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:79}{Rhythm:doubleCroche}
+
+
+ 31 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:4, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:4, Note:-1 ]}{Increment:false}
+
+
+ 32 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:8, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:12, Note:-1 MultiSelection MultiTrack ]}{Increment:true}
+
+
+
+
+ 33 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:3, Note:84 Track:0, Staff:0, Bar:11, Voice:0, Beat:3, Note:84 ]}{Increment:false}
+ 34 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:4, Note:84 Track:0, Staff:0, Bar:11, Voice:0, Beat:4, Note:84 ]}{Increment:true}
+
+
+
+
+ 35 CreateBeat {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:7, Note:87 Track:0, Staff:0, Bar:11, Voice:0, Beat:7, Note:87 ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 36 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:7, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:7, Note:-1 ]}{Pitch:86}{Rhythm:doubleCroche}
+ 37 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:8, Note:87 Track:0, Staff:0, Bar:11, Voice:0, Beat:8, Note:87 ]}{Increment:true}
+ 
+ 38 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:13, Note:79 Track:0, Staff:0, Bar:11, Voice:0, Beat:13, Note:79 ]}{Increment:false}
+ 39 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:12, Note:77 Track:0, Staff:0, Bar:11, Voice:0, Beat:12, Note:77 ]}{Increment:false}
+
+
+ 40 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:0, Beat:4, Note:-1}{Pitch:53}
+
+
+ 41 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:11, Voice:0, Beat:5, Note:-1}{Pitch:44}
+
+
+
+
+ 42 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:80}{Rhythm:doubleCroche}
+ 43 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:82}{Rhythm:doubleCroche}
+ 44 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:80}{Rhythm:doubleCroche}
+ 45 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:79}{Rhythm:doubleCroche}
+ 46 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:14, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:17, Note:-1 MultiSelection MultiTrack ]}{Increment:true}
+
+
+ 47 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:77}{Rhythm:tripleCroche}
+ 48 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:-1, Note:-1 ]}{Pitch:75}{Rhythm:tripleCroche}
+ 51 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:20, Note:73 Track:0, Staff:0, Bar:11, Voice:0, Beat:20, Note:73 ]}{Pitch:74}{Rhythm:tripleCroche}
+
+ 57 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:11, Voice:0, Beat:20, Note:-1 Track:0, Staff:0, Bar:11, Voice:0, Beat:20, Note:-1 ]}{Increment:false}
+
+
+ 62 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:0, Note:87 Track:0, Staff:0, Bar:12, Voice:0, Beat:0, Note:87 ]}{Pitch:75}{Rhythm:doubleCroche}
+ 63 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:0, Note:75 Track:0, Staff:0, Bar:12, Voice:0, Beat:0, Note:75 ]}{Increment:false}
+
+
+
+
+
+
+
+
+
+ACTION TRIGGERED (false) actionEditCopy
+ 64 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:0, Note:75 Track:0, Staff:0, Bar:12, Voice:0, Beat:0, Note:75 MultiSelection MultiTrack ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+ 65 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:0, Note:75 Track:0, Staff:0, Bar:12, Voice:0, Beat:0, Note:75 ]}{Pitch:75}{Rhythm:Croche}
+
+
+
+
+
+ 0 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:0, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:0, Note:-1 ]}{Increment:false}
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ 1 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:0, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:0, Note:-1 ]}{Increment:true}
+ 2 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:47}{Rhythm:tripleCroche}
+ 3 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:48}{Rhythm:tripleCroche}
+ 4 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:50}{Rhythm:tripleCroche}
+ 5 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:51}{Rhythm:tripleCroche}
+ 6 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:50}{Rhythm:tripleCroche}
+ 7 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:51}{Rhythm:tripleCroche}
+ 8 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:53}{Rhythm:tripleCroche}
+ 9 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:55}{Rhythm:tripleCroche}
+ 10 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:56}{Rhythm:tripleCroche}
+ 11 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:59}{Rhythm:tripleCroche}
+ 12 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:60}{Rhythm:tripleCroche}
+ 13 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:62}{Rhythm:tripleCroche}
+ 14 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:63}{Rhythm:tripleCroche}
+ 15 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:65}{Rhythm:tripleCroche}
+ 16 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:67}{Rhythm:tripleCroche}
+ 19 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:-1 ]}{Pitch:68}{Rhythm:tripleCroche}
+
+
+ 20 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:14, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:-1 MultiSelection MultiTrack ]}
+ 21 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:62}{Rhythm:tripleCroche}
+ 26 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:15, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:15, Note:-1 ]}{Pitch:60}{Rhythm:tripleCroche}
+ 27 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:-1 ]}{Pitch:67}{Rhythm:tripleCroche}
+
+
+
+
+ACTION TRIGGERED (true ) actionEditVoice1
+ 28 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:74}{Rhythm:Noire}
+ 29 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:1, Note:74 Track:0, Staff:0, Bar:12, Voice:0, Beat:1, Note:74 ]}{Increment:true}
+ 30 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:72}{Rhythm:Croche}
+
+ 33 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:3, Note:79 Track:0, Staff:0, Bar:12, Voice:0, Beat:3, Note:79 ]}{Pitch:80}{Rhythm:Croche}
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ 34 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:14, Note:62 Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:-1 MultiSelection MultiTrack ]}
+ 35 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:65}{Rhythm:tripleCroche}
+ 36 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:67}{Rhythm:tripleCroche}
+ 37 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{Pitch:68}{Rhythm:tripleCroche}
+
+
+ACTION TRIGGERED (true ) actionEditVoice1
+ 38 RemovePitchedNote {ModelIndex:Track:0, Staff:0, Bar:12, Voice:0, Beat:3, Note:-1}{Pitch:80}
+ 39 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:3, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:3, Note:-1 ]}{Pitch:77}{Rhythm:tripleCroche}
+ 40 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:3, Note:77 Track:0, Staff:0, Bar:12, Voice:0, Beat:3, Note:77 ]}{Increment:true}
+ 41 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:3, Note:77 Track:0, Staff:0, Bar:12, Voice:0, Beat:3, Note:77 ]}{Increment:true}
+ 42 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:76}{Rhythm:tripleCroche}
+ 43 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:77}{Rhythm:tripleCroche}
+ 44 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:78}{Rhythm:tripleCroche}
+ 45 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:79}{Rhythm:tripleCroche}
+ 46 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:75}{Rhythm:tripleCroche}
+ 47 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:74}{Rhythm:tripleCroche}
+ 48 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:72}{Rhythm:tripleCroche}
+ 49 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:71}{Rhythm:tripleCroche}
+ 50 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:69}{Rhythm:tripleCroche}
+ 51 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:71}{Rhythm:tripleCroche}
+ 52 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:74}{Rhythm:tripleCroche}
+ 53 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:72}{Rhythm:tripleCroche}
+ 54 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:75}{Rhythm:tripleCroche}
+ 55 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:74}{Rhythm:tripleCroche}
+ 56 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:77}{Rhythm:tripleCroche}
+ 59 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:0, Note:78 Track:0, Staff:0, Bar:13, Voice:0, Beat:0, Note:78 ]}{Pitch:75}{Rhythm:tripleCroche}
+ 60 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:12, Voice:0, Beat:3, Note:-1 Track:0, Staff:0, Bar:12, Voice:0, Beat:3, Note:-1 ]}{Pitch:68}{Rhythm:tripleCroche}
+
+
+
+ 63 SetNoteRest {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}
+ACTION TRIGGERED (true ) actionNoteRest
+ 64 SetNoteRest {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}
+ACTION TRIGGERED (true ) actionNoteRest
+ 65 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:2, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:2, Note:-1 ]}{Increment:false}
+
+
+
+ 14 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:41 Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:41 ]}{Pitch:38}{Rhythm:Noire}
+
+ 16 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:38 Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:38 ]}{Pitch:53}{Rhythm:Noire}
+
+
+
+
+
+ 22 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 ]}{Increment:true}
+
+ 27 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:39}{Rhythm:Croche}
+ 28 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:40}{Rhythm:Croche}
+ 29 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:41}{Rhythm:Croche}
+ 30 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:42}{Rhythm:Croche}
+
+
+
+
+ 41 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:6, Note:-1 MultiSelection MultiTrack ]}
+ 42 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 ]}{Increment:true}
+ 43 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 ]}{Increment:true}
+ 44 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:37}{Rhythm:tripleCroche}
+ 45 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:38}{Rhythm:tripleCroche}
+ 46 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:39}{Rhythm:tripleCroche}
+ 47 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:41}{Rhythm:tripleCroche}
+ 48 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:40}{Rhythm:tripleCroche}
+ 49 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:41}{Rhythm:tripleCroche}
+ 50 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:42}{Rhythm:tripleCroche}
+
+
+
+
+
+
+ 51 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:8, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:10, Note:-1 MultiSelection MultiTrack ]}
+ 52 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:38}{Rhythm:tripleCroche}
+ 53 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:36}{Rhythm:tripleCroche}
+ 54 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:35}{Rhythm:tripleCroche}
+ 55 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:33}{Rhythm:tripleCroche}
+ 56 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:31}{Rhythm:tripleCroche}
+ 57 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:33}{Rhythm:tripleCroche}
+ 58 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:35}{Rhythm:tripleCroche}
+ 59 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:36}{Rhythm:tripleCroche}
+ 60 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:14, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:14, Note:-1 ]}{Pitch:36}{Rhythm:tripleCroche}
+ 61 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:12, Voice:0, Beat:14, Note:36}{Pitch:35}
+ 62 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:12, Voice:0, Beat:15, Note:36}{Pitch:36}
+ 63 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:15, Note:36 Track:0, Staff:1, Bar:12, Voice:0, Beat:15, Note:36 ]}{Pitch:35}{Rhythm:tripleCroche}
+ 64 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:38}{Rhythm:tripleCroche}
+ 65 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:36}{Rhythm:tripleCroche}
+ 66 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:39}{Rhythm:tripleCroche}
+
+
+
+
+
+
+
+
+ 67 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:18, Note:-1 MultiSelection MultiTrack ]}
+ 68 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:36}{Rhythm:tripleCroche}
+ 0 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:38}{Rhythm:tripleCroche}
+ 1 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:39}{Rhythm:tripleCroche}
+ 2 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:41}{Rhythm:tripleCroche}
+
+
+ 3 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:6, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:7, Note:41 MultiSelection MultiTrack ]}
+ 4 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:39}{Rhythm:tripleCroche}
+
+ 7 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1}{Pitch:36}
+ 8 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 ]}{Pitch:37}{Rhythm:tripleCroche}
+
+
+
+
+ 13 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:7, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:7, Note:-1 ]}{Pitch:40}{Rhythm:tripleCroche}
+ 14 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:36}{Rhythm:tripleCroche}
+
+
+ 15 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:35}{Rhythm:tripleCroche}
+ 16 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:32}{Rhythm:tripleCroche}
+ 17 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:31}{Rhythm:tripleCroche}
+
+
+ 18 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:29}{Rhythm:tripleCroche}
+ 19 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:31}{Rhythm:tripleCroche}
+ 20 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:35}{Rhythm:tripleCroche}
+ 21 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:33}{Rhythm:tripleCroche}
+ 22 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:36}{Rhythm:tripleCroche}
+ 23 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:35}{Rhythm:tripleCroche}
+ 24 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:38}{Rhythm:tripleCroche}
+
+ 27 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:13, Voice:0, Beat:0, Note:42}{Pitch:42}
+ 28 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:0, Beat:0, Note:42 Track:0, Staff:1, Bar:13, Voice:0, Beat:0, Note:42 ]}{Pitch:36}{Rhythm:tripleCroche}
+
+
+
+ 40 TransposeTrack {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:18, Note:-1 MultiSelection MultiTrack ]}{Semitones:6}
+ACTION TRIGGERED (false) actionToolsTranspose
+
+
+ 41 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:13, Voice:0, Beat:0, Note:-1}{Pitch:36}
+ 42 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:0, Beat:0, Note:-1 Track:0, Staff:1, Bar:13, Voice:0, Beat:0, Note:-1 ]}{Pitch:42}{Rhythm:Croche}
+
+
+ 43 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:18, Note:-1 MultiSelection MultiTrack ]}
+
+
+
+
+
+ 44 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:39}{Rhythm:tripleCroche}
+ 45 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:40}{Rhythm:tripleCroche}
+ 46 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:41}{Rhythm:tripleCroche}
+ 47 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:42}{Rhythm:tripleCroche}
+ 48 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:39}{Rhythm:tripleCroche}
+ 49 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:38}{Rhythm:tripleCroche}
+ 50 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:36}{Rhythm:tripleCroche}
+ 51 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:39}{Rhythm:tripleCroche}
+ 52 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:38}{Rhythm:tripleCroche}
+ 53 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:41}{Rhythm:tripleCroche}
+ 54 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:39}{Rhythm:tripleCroche}
+ 55 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:42}{Rhythm:tripleCroche}
+ 56 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}{Pitch:41}{Rhythm:tripleCroche}
+ 61 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:17, Note:43 Track:0, Staff:1, Bar:12, Voice:0, Beat:17, Note:43 ]}{Pitch:44}{Rhythm:tripleCroche}
+ 64 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:18, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:18, Note:-1 ]}{Pitch:41}{Rhythm:tripleCroche}
+
+
+
+ 65 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:7, Note:-1 MultiSelection MultiTrack ]}
+ 66 CreateBeat {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 ]}{Rhythm:tripleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 67 CreateBeat {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 ]}{Rhythm:tripleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 68 CreateBeat {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 ]}{Rhythm:tripleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 0 CreateBeat {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 ]}{Rhythm:tripleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ 1 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:-1 ]}{Increment:false}
+ 2 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:-1 ]}{Increment:false}
+ 3 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:-1 ]}{Increment:false}
+
+
+ACTION TRIGGERED (true ) actionEditVoice1
+ 4 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 ]}{Increment:false}
+ 5 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 ]}{Increment:false}
+ 6 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:6, Note:-1 MultiSelection MultiTrack ]}
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ 7 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:68 Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:68 ]}{Increment:true}
+ 8 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:68 Track:0, Staff:1, Bar:12, Voice:1, Beat:16, Note:68 ]}{Increment:true}
+ACTION TRIGGERED (true ) actionEditVoice1
+
+
+ 9 SetNoteRest {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:5, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:5, Note:-1 MultiSelection MultiTrack ]}
+ACTION TRIGGERED (true ) actionNoteRest
+
+
+ 10 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:38}{Pitch:38}
+ 11 SetNoteAugmentationDot {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:53 Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:53 ]}{Checked:true}{Dots:1}
+ACTION TRIGGERED (true ) actionNoteDurationDotted
+ 12 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:5, Note:-1 MultiSelection MultiTrack ]}
+
+
+ 15 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 ]}{Pitch:41}{Rhythm:doubleCroche}
+
+
+
+
+ 16 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:5, Note:-1 MultiSelection MultiTrack ]}
+ 17 CreateBeat {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:39 Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:39 ]}{Rhythm:tripleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 18 CreateBeat {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:39 Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:39 ]}{Rhythm:tripleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+
+
+ 19 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 ]}{Increment:false}
+ 20 SetNoteAugmentationDot {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:3, Note:-1 ]}{Checked:false}{Dots:1}
+ACTION TRIGGERED (false) actionNoteDurationDotted
+ 21 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:5, Note:-1 MultiSelection MultiTrack ]}
+
+
+ 22 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:11, Note:-1 MultiSelection MultiTrack ]}
+ACTION TRIGGERED (false) actionEditCut
+ 23 SetNoteRest {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:-1, Note:-1 ]}
+ACTION TRIGGERED (true ) actionNoteRest
+ACTION TRIGGERED (true ) actionEditVoice2
+ 24 SetNoteRest {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}
+ACTION TRIGGERED (true ) actionNoteRest
+ 25 SetNoteRest {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}
+ACTION TRIGGERED (true ) actionNoteRest
+ 26 SetNoteRest {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}
+ACTION TRIGGERED (true ) actionNoteRest
+ 27 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:-1, Note:-1 ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+
+
+ACTION TRIGGERED (false) actionEditVoice2
+ACTION TRIGGERED (true ) actionEditVoice1
+
+
+ 31 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:0, Note:36 Track:0, Staff:0, Bar:13, Voice:0, Beat:0, Note:36 ]}{Increment:false}
+ 34 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:69}{Rhythm:doubleCroche}
+
+
+ 35 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:0, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:0, Note:-1 ]}{Increment:false}
+ 36 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:1, Note:69 Track:0, Staff:0, Bar:13, Voice:0, Beat:1, Note:69 ]}{Increment:false}
+
+
+ 39 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:0, Beat:1, Note:45 Track:0, Staff:1, Bar:13, Voice:0, Beat:1, Note:45 ]}{Pitch:39}{Rhythm:Croche}
+
+
+ 41 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:1, Note:-1 ]}{Pitch:78}{Rhythm:Croche}
+
+
+ 45 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:0, Beat:1, Note:48 Track:0, Staff:1, Bar:13, Voice:0, Beat:1, Note:48 ]}{Pitch:48}{Rhythm:Croche}
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ 50 SetNoteRest {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 ]}
+ACTION TRIGGERED (true ) actionNoteRest
+ 51 SetNoteRest {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 ]}
+ACTION TRIGGERED (true ) actionNoteRest
+ 52 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:-1 ]}{Increment:true}
+
+ 55 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:2, Note:51 Track:0, Staff:1, Bar:13, Voice:1, Beat:2, Note:51 ]}{Pitch:50}{Rhythm:doubleCroche}
+ 56 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 ]}{Pitch:48}{Rhythm:doubleCroche}
+ 57 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 ]}{Pitch:47}{Rhythm:doubleCroche}
+ 58 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 ]}{Pitch:48}{Rhythm:doubleCroche}
+ 59 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 ]}{Pitch:51}{Rhythm:doubleCroche}
+ 60 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 ]}{Pitch:51}{Rhythm:doubleCroche}
+ 61 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:2, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:6, Note:-1 MultiSelection MultiTrack ]}{Increment:true}
+
+
+
+
+
+
+ 62 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:5, Note:48 Track:0, Staff:1, Bar:13, Voice:1, Beat:5, Note:48 ]}{Increment:false}
+ 63 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:6, Note:51 Track:0, Staff:1, Bar:13, Voice:1, Beat:6, Note:51 ]}{Increment:false}
+
+
+
+ 67 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:-1 ]}{Increment:true}
+
+
+
+ 0 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:-1 ]}{Pitch:48}{Rhythm:doubleCroche}
+ACTION TRIGGERED (true ) actionEditVoice1
+ 1 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:13, Voice:0, Beat:1, Note:48}{Pitch:48}
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+
+
+ 2 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 ]}{Increment:false}
+
+
+ 3 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 ]}{Pitch:50}{Rhythm:Croche}
+
+
+ 4 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51}{Pitch:51}
+ 5 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 ]}{Pitch:53}{Rhythm:Croche}
+
+
+ 6 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:13, Voice:1, Beat:8, Note:-1}{Pitch:50}
+ 7 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:8, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:8, Note:-1 ]}{Pitch:51}{Rhythm:Croche}
+
+
+
+
+ACTION TRIGGERED (true ) actionEditVoice1
+
+
+ 8 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:81}{Rhythm:Croche}
+ 9 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:2, Note:81 Track:0, Staff:0, Bar:13, Voice:0, Beat:2, Note:81 ]}{Pitch:72}{Rhythm:Croche}
+ 10 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:75}{Rhythm:Croche}
+ 11 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:3, Note:75 Track:0, Staff:0, Bar:13, Voice:0, Beat:3, Note:75 ]}{Pitch:84}{Rhythm:Croche}
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ 12 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:-1}{Pitch:53}
+ 13 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:-1 ]}{Pitch:54}{Rhythm:Croche}
+ACTION TRIGGERED (true ) actionEditVoice1
+
+
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+
+
+ 22 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:-1}{Pitch:54}
+ 23 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:-1 ]}{Pitch:51}{Rhythm:Croche}
+ 24 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:8, Note:51 Track:0, Staff:1, Bar:13, Voice:1, Beat:8, Note:51 ]}{Pitch:50}{Rhythm:Croche}
+ 25 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:13, Voice:1, Beat:8, Note:50}{Pitch:51}
+
+ACTION TRIGGERED (true ) actionEditVoice1
+ACTION TRIGGERED (true ) actionMultiVoiceEdition
+
+ 30 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:9, Note:66 Track:0, Staff:1, Bar:13, Voice:1, Beat:9, Note:66 MultiVoice MultiTrack ]}{Pitch:54}{Rhythm:Croche}
+ 31 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:9, Note:54 Track:0, Staff:1, Bar:13, Voice:1, Beat:9, Note:54 MultiVoice MultiTrack ]}{Pitch:45}{Rhythm:Croche}
+
+
+
+
+ 32 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 MultiVoice MultiTrack ]}{Pitch:57}{Rhythm:Croche}
+ 33 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:10, Note:57 Track:0, Staff:1, Bar:13, Voice:1, Beat:10, Note:57 MultiVoice MultiTrack ]}{Pitch:48}{Rhythm:Croche}
+ 34 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:-1, Note:-1 MultiVoice MultiTrack ]}{Pitch:60}{Rhythm:Croche}
+ 35 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:11, Note:60 Track:0, Staff:1, Bar:13, Voice:1, Beat:11, Note:60 MultiVoice MultiTrack ]}{Pitch:51}{Rhythm:Croche}
+
+
+
+
+ 36 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 MultiVoice MultiTrack ]}{Increment:true}
+ 37 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 MultiVoice MultiTrack ]}{Increment:true}
+ 38 CreateBeat {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 MultiVoice MultiTrack ]}{Rhythm:tripleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 39 CreateBeat {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 MultiVoice MultiTrack ]}{Rhythm:tripleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 40 CreateBeat {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:51 MultiVoice MultiTrack ]}{Rhythm:tripleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+
+
+ 42 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:8, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:8, Note:-1 MultiVoice MultiTrack ]}{Pitch:51}{Rhythm:tripleCroche}
+ 43 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:9, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:9, Note:-1 MultiVoice MultiTrack ]}{Pitch:50}{Rhythm:tripleCroche}
+ 44 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:10, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:10, Note:-1 MultiVoice MultiTrack ]}{Pitch:48}{Rhythm:tripleCroche}
+ 45 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:13, Voice:1, Beat:10, Note:48}{Pitch:51}
+ 47 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:7, Note:-1 MultiVoice MultiTrack ]}{Pitch:54}{Rhythm:tripleCroche}
+
+////////////////////////
+ACTION TRIGGERED (false) actionEditCopy
+ 48 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 MultiVoice MultiTrack ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+
+
+ 49 SetNoteRest {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:4, Note:-1 Track:0, Staff:0, Bar:13, Voice:1, Beat:11, Note:48 MultiSelection MultiVoice MultiTrack ]}
+ACTION TRIGGERED (false) actionNoteRest
+ 50 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:4, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:4, Note:-1 MultiVoice MultiTrack ]}{Pitch:78}{Rhythm:tripleCroche}
+ 53 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:4, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:4, Note:-1 MultiVoice MultiTrack ]}{Pitch:87}{Rhythm:tripleCroche}
+ 57 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:5, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:5, Note:-1 MultiVoice MultiTrack ]}{Pitch:84}{Rhythm:Croche}
+ 59 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:1, Beat:3, Note:84 Track:0, Staff:0, Bar:13, Voice:1, Beat:3, Note:84 MultiVoice MultiTrack ]}{Pitch:86}{Rhythm:tripleCroche}
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ 60 RemoveBeats {Range:[ Track:0, Staff:0, Bar:13, Voice:1, Beat:1, Note:-1 Track:0, Staff:0, Bar:13, Voice:1, Beat:11, Note:-1 MultiSelection MultiTrack ]}
+ACTION TRIGGERED (false) actionEditCut
+ACTION TRIGGERED (true ) actionEditVoice1
+
+ 61 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+ 62 RemoveBeats {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:6, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:6, Note:-1 ]}
+ 63 RemoveBeats {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:5, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:5, Note:-1 MultiSelection MultiTrack ]}
+ 64 RemoveBeats {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:5, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:5, Note:-1 MultiSelection MultiTrack ]}
+
+
+
+ 67 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:5, Note:72 Track:0, Staff:0, Bar:13, Voice:0, Beat:5, Note:72 ]}{Pitch:84}{Rhythm:tripleCroche}
+ 0 RemovePitchedNote {ModelIndex:Track:0, Staff:0, Bar:13, Voice:0, Beat:6, Note:88}{Pitch:86}
+ 2 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:6, Note:88 Track:0, Staff:0, Bar:13, Voice:0, Beat:6, Note:88 ]}{Pitch:86}{Rhythm:tripleCroche}
+ 3 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:7, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:7, Note:-1 ]}{Pitch:87}{Rhythm:tripleCroche}
+ 4 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:8, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:8, Note:-1 ]}{Pitch:84}{Rhythm:tripleCroche}
+ 5 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:9, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:9, Note:-1 ]}{Pitch:81}{Rhythm:tripleCroche}
+ 6 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:10, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:10, Note:-1 ]}{Pitch:87}{Rhythm:doubleCroche}
+ 7 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:11, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:11, Note:-1 ]}{Pitch:84}{Rhythm:doubleCroche}
+ 8 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:12, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:12, Note:-1 ]}{Pitch:86}{Rhythm:tripleCroche}
+ 9 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:13, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:13, Note:-1 ]}{Pitch:87}{Rhythm:tripleCroche}
+ 10 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:14, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:14, Note:-1 ]}{Pitch:84}{Rhythm:tripleCroche}
+
+
+
+
+ 13 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:4, Note:87 Track:0, Staff:0, Bar:13, Voice:0, Beat:4, Note:87 ]}{Increment:true}
+
+
+ 14 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:4, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:4, Note:-1 ]}{Increment:true}
+
+
+ 15 RemoveBeats {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:8, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:14, Note:-1 MultiSelection MultiTrack ]}
+
+
+ 16 RemoveBeats {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:5, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:7, Note:-1 MultiSelection MultiTrack ]}
+ 17 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:86}{Rhythm:tripleCroche}
+ 18 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:84}{Rhythm:tripleCroche}
+ 19 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:82}{Rhythm:tripleCroche}
+ 20 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:84}{Rhythm:tripleCroche}
+ 21 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:81}{Rhythm:tripleCroche}
+ 22 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:87}{Rhythm:tripleCroche}
+ 23 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:86}{Rhythm:tripleCroche}
+ 24 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:90}{Rhythm:tripleCroche}
+ 29 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:13, Note:88 Track:0, Staff:0, Bar:13, Voice:0, Beat:13, Note:88 ]}{Pitch:87}{Rhythm:tripleCroche}
+ 30 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:86}{Rhythm:tripleCroche}
+ 31 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:84}{Rhythm:tripleCroche}
+ 32 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:81}{Rhythm:tripleCroche}
+ 33 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:78}{Rhythm:tripleCroche}
+ 34 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:75}{Rhythm:tripleCroche}
+ 35 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:72}{Rhythm:tripleCroche}
+ 36 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:0, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:0, Note:-1 ]}{Pitch:74}{Rhythm:tripleCroche}
+
+
+
+
+ 37 RemoveBeats {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:10, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:19, Note:72 MultiSelection MultiTrack ]}
+
+
+ 38 RemovePitchedNote {ModelIndex:Track:0, Staff:0, Bar:13, Voice:0, Beat:9, Note:-1}{Pitch:81}
+ 39 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:9, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:9, Note:-1 ]}{Pitch:83}{Rhythm:tripleCroche}
+ 40 RemovePitchedNote {ModelIndex:Track:0, Staff:0, Bar:13, Voice:0, Beat:9, Note:83}{Pitch:83}
+ 41 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:9, Note:83 Track:0, Staff:0, Bar:13, Voice:0, Beat:9, Note:83 ]}{Pitch:82}{Rhythm:tripleCroche}
+ 42 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:81}{Rhythm:tripleCroche}
+ 43 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:79}{Rhythm:tripleCroche}
+ 44 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:81}{Rhythm:tripleCroche}
+ 45 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:79}{Rhythm:tripleCroche}
+ 46 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:78}{Rhythm:tripleCroche}
+ 47 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:75}{Rhythm:tripleCroche}
+ 48 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:72}{Rhythm:tripleCroche}
+ 49 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:75}{Rhythm:tripleCroche}
+ 50 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:77}{Rhythm:tripleCroche}
+ 51 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:-1, Note:-1 ]}{Pitch:75}{Rhythm:tripleCroche}
+
+
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ 52 SetNoteRest {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:21, Note:38 Track:0, Staff:1, Bar:12, Voice:1, Beat:21, Note:38 ]}
+ACTION TRIGGERED (true ) actionNoteRest
+ 53 SetNoteRest {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:23, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:23, Note:-1 ]}
+ACTION TRIGGERED (true ) actionNoteRest
+ 54 SetNoteRest {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:25, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:25, Note:-1 ]}
+ACTION TRIGGERED (true ) actionNoteRest
+ 55 SetNoteRest {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:27, Note:41 Track:0, Staff:1, Bar:12, Voice:1, Beat:27, Note:41 ]}
+ACTION TRIGGERED (true ) actionNoteRest
+
+
+
+
+ACTION TRIGGERED (true ) actionEditVoice1
+ACTION TRIGGERED (true ) actionEditVoice2
+ 56 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:1, Beat:17, Note:-1 Track:0, Staff:1, Bar:12, Voice:1, Beat:27, Note:-1 MultiSelection MultiTrack ]}
+ACTION TRIGGERED (false) actionEditCut
+ACTION TRIGGERED (true ) actionEditVoice1
+ 57 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 MultiSelection MultiTrack ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+
+
+ 58 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:6, Note:-1 MultiSelection MultiTrack ]}
+
+
+ 59 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:12, Voice:0, Beat:10, Note:-1}{Pitch:44}
+ 60 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:10, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:10, Note:-1 ]}{Pitch:41}{Rhythm:tripleCroche}
+ 61 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:12, Voice:0, Beat:8, Note:-1}{Pitch:42}
+ 62 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:8, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:8, Note:-1 ]}{Pitch:40}{Rhythm:tripleCroche}
+ 63 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:12, Voice:0, Beat:6, Note:-1}{Pitch:41}
+ 64 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:6, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:6, Note:-1 ]}{Pitch:39}{Rhythm:tripleCroche}
+
+
+ 65 SetNoteRest {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 MultiSelection MultiTrack ]}
+ACTION TRIGGERED (true ) actionNoteRest
+
+
+ 68 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:62 Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:62 ]}{Pitch:38}{Rhythm:tripleCroche}
+
+
+       ------------
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ 0 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:0, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:0, Note:-1 ]}{Increment:true}
+ 1 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:0, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:0, Note:-1 ]}{Increment:true}
+ 2 CreateBeat {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:-1 ]}{Rhythm:tripleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 3 CreateBeat {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:-1 ]}{Rhythm:tripleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 4 CreateBeat {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:-1 ]}{Rhythm:tripleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 7 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:43 Track:0, Staff:1, Bar:13, Voice:1, Beat:1, Note:43 ]}{Pitch:43}{Rhythm:tripleCroche}
+ 8 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:2, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:2, Note:-1 ]}{Pitch:45}{Rhythm:tripleCroche}
+ 9 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:3, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:3, Note:-1 ]}{Pitch:46}{Rhythm:tripleCroche}
+
+
+ 10 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:8, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:8, Note:-1 ]}{Increment:true}
+ 11 CreateBeat {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:9, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:9, Note:-1 ]}{Rhythm:doubleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 12 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:9, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:9, Note:-1 ]}{Increment:true}
+
+ 19 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:9, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:9, Note:-1 ]}{Pitch:50}{Rhythm:tripleCroche}
+
+
+ 20 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:10, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:10, Note:-1 ]}{Increment:true}
+ 21 CreateBeat {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:11, Note:54 Track:0, Staff:1, Bar:13, Voice:1, Beat:11, Note:54 ]}{Rhythm:tripleCroche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 22 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:13, Voice:1, Beat:11, Note:-1 Track:0, Staff:1, Bar:13, Voice:1, Beat:11, Note:-1 ]}{Pitch:53}{Rhythm:tripleCroche}
+
+
+
+
+ACTION TRIGGERED (false) actionEditVoice2
+ACTION TRIGGERED (true ) actionEditVoice1
+ 23 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:5, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:5, Note:-1 ]}
+ 24 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:6, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:6, Note:-1 ]}
+ 25 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:7, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:7, Note:-1 ]}
+ 26 RemoveBeats {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:8, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:8, Note:-1 ]}
+ 27 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:12, Voice:0, Beat:4, Note:-1 Track:0, Staff:1, Bar:12, Voice:0, Beat:7, Note:-1 MultiSelection MultiTrack ]}{Increment:false}
+
+
+ 28 TransposeTrack {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:1, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:19, Note:-1 MultiSelection MultiTrack ]}{Semitones:-12}
+ACTION TRIGGERED (false) actionToolsTranspose
+
+
+ 29 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:13, Voice:0, Beat:0, Note:-1 Track:0, Staff:0, Bar:13, Voice:0, Beat:0, Note:-1 ]}{Pitch:63}{Rhythm:doubleCroche}
+
+
+ 30 RemovePitchedNote {ModelIndex:Track:0, Staff:0, Bar:14, Voice:0, Beat:0, Note:63}{Pitch:74}
+ 31 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:0, Note:63 Track:0, Staff:0, Bar:14, Voice:0, Beat:0, Note:63 ]}{Pitch:62}{Rhythm:doubleCroche}
+ 32 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:0, Note:62 Track:0, Staff:0, Bar:14, Voice:0, Beat:0, Note:62 ]}{Increment:false}
+
+ 35 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{Pitch:62}{Rhythm:doubleCroche}
+ 36 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{Pitch:63}{Rhythm:doubleCroche}
+ 37 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:1, Note:62 Track:0, Staff:0, Bar:14, Voice:0, Beat:2, Note:-1 MultiSelection MultiTrack ]}{Increment:true}
+
+
+ACTION TRIGGERED (false) actionEditCopy
+ 38 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+
+
+ 39 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{Pitch:62}{Rhythm:tripleCroche}
+ 40 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:6, Note:62 Track:0, Staff:0, Bar:14, Voice:0, Beat:6, Note:62 ]}{Increment:false}
+ 41 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:6, Note:62 Track:0, Staff:0, Bar:14, Voice:0, Beat:6, Note:62 ]}{Increment:false}
+
+
+ 42 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:6, Note:62 Track:0, Staff:0, Bar:14, Voice:0, Beat:6, Note:62 ]}{Increment:false}
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ 43 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:14, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:14, Voice:1, Beat:-1, Note:-1 ]}{Pitch:55}{Rhythm:Noire}
+ 44 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:14, Voice:1, Beat:0, Note:55}{Pitch:55}
+ACTION TRIGGERED (true ) actionEditVoice1
+ 45 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{Pitch:55}{Rhythm:Noire}
+ 46 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:55 Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:55 ]}{Pitch:43}{Rhythm:Noire}
+
+
+ 47 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:-1}{Pitch:55}
+ 48 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:-1 ]}{Pitch:59}{Rhythm:Noire}
+
+
+ 49 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:-1}{Pitch:43}
+ 50 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:-1 ]}{Pitch:55}{Rhythm:Noire}
+
+
+ 51 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:55 Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:55 ]}{Increment:false}
+ 52 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:55 Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:55 ]}{Increment:true}
+ 53 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:55 Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:55 ]}{Increment:true}
+ACTION TRIGGERED (false) actionEditCopy
+ 54 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+ 55 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+
+
+
+
+ 56 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:2, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:2, Note:-1 MultiSelection MultiTrack ]}{Pitch:31}{Rhythm:Croche}
+ 57 CreatePitchedNote {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:2, Note:31 Track:0, Staff:1, Bar:14, Voice:0, Beat:2, Note:31 ]}{Pitch:43}{Rhythm:Croche}
+ 58 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:14, Voice:0, Beat:2, Note:43}{Pitch:55}
+ 59 RemovePitchedNote {ModelIndex:Track:0, Staff:1, Bar:14, Voice:0, Beat:2, Note:43}{Pitch:59}
+
+
+ 60 RemoveBeats {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:43 Track:0, Staff:1, Bar:14, Voice:0, Beat:1, Note:-1 MultiSelection MultiTrack ]}
+ACTION TRIGGERED (false) actionEditCut
+ACTION TRIGGERED (true ) actionEditVoice2
+ 61 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:14, Voice:1, Beat:0, Note:-1 Track:0, Staff:1, Bar:14, Voice:1, Beat:0, Note:-1 ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+ACTION TRIGGERED (true ) actionEditVoice1
+ 62 CreateBeat {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:-1 ]}{Rhythm:Croche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 63 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:-1 ]}{Increment:false}
+ 64 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:1, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:1, Note:-1 ]}{Increment:true}
+ 65 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:1, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:1, Note:-1 ]}{Increment:false}
+ 66 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:1, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:1, Note:-1 ]}{Increment:false}
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ 67 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:14, Voice:1, Beat:2, Note:-1 Track:0, Staff:1, Bar:14, Voice:1, Beat:2, Note:-1 ]}{Increment:true}
+ 68 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:14, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:14, Voice:1, Beat:-1, Note:-1 ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+ 0 RemoveBeats {Range:[ Track:0, Staff:1, Bar:14, Voice:1, Beat:4, Note:55 Track:0, Staff:1, Bar:14, Voice:1, Beat:4, Note:55 MultiSelection MultiTrack ]}
+
+
+
+ACTION TRIGGERED (false) actionEditCopy
+ 1 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:14, Voice:1, Beat:2, Note:-1 Track:0, Staff:1, Bar:14, Voice:1, Beat:3, Note:-1 MultiSelection MultiTrack ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+ 2 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:14, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:14, Voice:1, Beat:-1, Note:-1 ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+ 3 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:14, Voice:1, Beat:-1, Note:-1 Track:0, Staff:1, Bar:14, Voice:1, Beat:-1, Note:-1 ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+
+
+ACTION TRIGGERED (true ) actionEditVoice1
+ACTION TRIGGERED (false) actionEditCopy
+ 4 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:0, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:1, Note:-1 MultiSelection MultiTrack ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+ 5 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+ 6 RemoveBeats {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:2, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:2, Note:-1 MultiSelection MultiTrack ]}
+ 7 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+ 8 RemoveBeats {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:3, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:3, Note:-1 MultiSelection MultiTrack ]}
+
+
+ACTION TRIGGERED (true ) actionEditVoice2
+ACTION TRIGGERED (false) actionEditCopy
+ 9 PasteBeatRange {SerializedBarCount:1}{Range:[ Track:0, Staff:1, Bar:14, Voice:1, Beat:6, Note:-1 Track:0, Staff:1, Bar:14, Voice:1, Beat:6, Note:-1 MultiSelection MultiTrack ]}{XTimes:1}{OverridingMode:}
+ACTION TRIGGERED (false) actionEditPaste
+
+
+ACTION TRIGGERED (true ) actionEditVoice1
+ 10 SetNoteRest {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:3, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:3, Note:-1 MultiSelection MultiTrack ]}
+ACTION TRIGGERED (true ) actionNoteRest
+
+
+
+
+ 11 CreateBeat {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:2, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:2, Note:-1 ]}{Rhythm:Noire}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 12 IncrementBeatDuration {Range:[ Track:0, Staff:1, Bar:14, Voice:0, Beat:2, Note:-1 Track:0, Staff:1, Bar:14, Voice:0, Beat:2, Note:-1 ]}{Increment:true}
+ACTION TRIGGERED (true ) actionEditVoice2
+ 13 RemoveBeats {Range:[ Track:0, Staff:1, Bar:14, Voice:1, Beat:4, Note:-1 Track:0, Staff:1, Bar:14, Voice:1, Beat:4, Note:-1 ]}
+ 14 CreateBeat {Range:[ Track:0, Staff:1, Bar:14, Voice:1, Beat:5, Note:59 Track:0, Staff:1, Bar:14, Voice:1, Beat:5, Note:59 ]}{Rhythm:Croche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ACTION TRIGGERED (true ) actionEditVoice1
+
+ 15 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{Pitch:55}{Rhythm:Noire}
+ 16 RemovePitchedNote {ModelIndex:Track:0, Staff:0, Bar:14, Voice:0, Beat:7, Note:-1}{Pitch:55}
+ 17 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:7, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:7, Note:-1 ]}{Pitch:50}{Rhythm:Noire}
+ 18 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{Pitch:55}{Rhythm:Noire}
+ 19 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:7, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:7, Note:-1 ]}{Increment:true}
+
+ 20 CreateBeat {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:7, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:7, Note:-1 ]}{Rhythm:Croche}
+ACTION TRIGGERED (false) actionNoteInsertBeat
+ 21 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:7, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:7, Note:-1 ]}{Increment:true}
+ 22 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:8, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:8, Note:-1 ]}{Increment:true}
+ 23 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:9, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:9, Note:-1 ]}{Increment:true}
+ 24 IncrementBeatDuration {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:9, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:9, Note:-1 ]}{Increment:true}
+
+ 25 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{Pitch:59}{Rhythm:doubleCroche}
+ 26 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{Pitch:62}{Rhythm:doubleCroche}
+ 27 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{Pitch:67}{Rhythm:doubleCroche}
+ 28 RemovePitchedNote {ModelIndex:Track:0, Staff:0, Bar:14, Voice:0, Beat:12, Note:67}{Pitch:67}
+ 29 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:12, Note:67 Track:0, Staff:0, Bar:14, Voice:0, Beat:12, Note:67 ]}{Pitch:65}{Rhythm:doubleCroche}
+ 30 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{Pitch:71}{Rhythm:doubleCroche}
+ 31 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:14, Voice:0, Beat:-1, Note:-1 ]}{Pitch:74}{Rhythm:doubleCroche}
+ 32 CreatePitchedNote {Range:[ Track:0, Staff:0, Bar:15, Voice:0, Beat:-1, Note:-1 Track:0, Staff:0, Bar:15, Voice:0, Beat:-1, Note:-1 ]}{Pitch:79}{Rhythm:doubleCroche}
