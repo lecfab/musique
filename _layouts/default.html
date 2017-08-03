@@ -33,9 +33,9 @@
         {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" class="button"><small>Voir sur</small> GitHub</a>
         {% endif %}
-        {% if site.github.is_user_page %}
-          <a href="{{ site.github.repository_url }}" class="button"><small>Follow me on</small> GitHub</a>
-        {% endif %}
+        
+          <a href="{{ site.url }}" class="button"><small>Voir le site de</small> Fabrice</a>
+        {% if site.github.is_user_page %}<a href="{{ site.github.repository_url }}" class="button"><small>Follow me on</small> GitHub</a>{% endif %}
       </div>
     </header>
 
