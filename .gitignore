@@ -1,9 +1,15 @@
-/*
+
 !/Partitions
 !/Travaux
 !/Styles
 
 _site/
+exercices/
+Images/
+Modèles/
+Plugins/
+Soundfonts/
+Styles/
 Travaux/_todo
 *.mp3
 *.wav
