@@ -4,7 +4,7 @@ title: "Symphonie ZL"
 date: 2017-04-20
 key: "La mineur"
 instru: "Orchestre"
-folder: "/Travaux/2017-04 - Fabrice - ZL"
+folder: {{ site.baseurl }}"/Travaux/2017-04 - Fabrice - ZL"
 midi: "/2017-04-20 - Fabrice - ZL.mid"
 pdf: "/2017-04-20 - Fabrice - ZL.pdf"
 ---
