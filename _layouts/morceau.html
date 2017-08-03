@@ -11,12 +11,12 @@ layout: default
 
 {% if page.midi %}
 <p>
-  <a href="#" onClick="MIDIjs.play('{{ site.baseurl }}{{ page.folder }}{{ page.midi }}')">Ecouter</a>
-  <a href="#" onClick="MIDIjs.stop()">Arrêter</a>
+  <a href="#" onclick="MIDIjs.play('{{ site.baseurl }}{{ page.folder }}{{ page.midi }}')">Ecouter</a>
+  <a href="#" onclick="MIDIjs.stop()">Arrêter</a>
 </p>
 {% endif %}
 {% if page.pdf %}
 <p>
-  <a href="#" target="_blank" src="{{ site.baseurl }}{{ page.folder }}{{ page.pdf }}">Voir la partition</a>
+  <a target="_blank" href="{{ site.baseurl }}{{ page.folder }}{{ page.pdf }}">Voir la partition</a>
 </p>
 {% endif %}
