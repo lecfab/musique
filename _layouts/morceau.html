@@ -21,8 +21,15 @@ layout: default
   <a href="#" onclick="MIDIjs.stop()">Arrêter</a>
 </p>
 {% endif %}
+
 {% if page.pdf %}
 <p>
   <a target="_blank" href="{{ site.baseurl }}/Travaux{{ page.folder }}{{ page.pdf }}">Voir la partition</a>
+</p>
+{% endif %}
+
+{% if page.musescore %}
+<p>
+  <a target="_blank" href="{{ page.musescore }}">Voir sur MuseScore</a>
 </p>
 {% endif %}
