@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Accueil
+permalink: /
 ---
-# {{ page.title }}
+# Accueil
 
 Ce petit site rassemble tous les trucs dont je me sers pour la musique : partitions, petites compositions, logiciels etc.
 Le but est que je puisse y accéder de partout et facilement, en ayant juste à cloner le git quand je change d'ordi.
