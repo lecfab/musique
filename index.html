@@ -6,9 +6,9 @@ title: Accueil
 <ul class="posts">
 
   {% for post in site.posts %}
-    {{ site.url }}
-    {{ site.base-url }}
-    {{ post.url }}
+    {{ site.url }}<br>
+    {{ site.baseurl }}<br>
+    {{ post.url }}<br>
     <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
